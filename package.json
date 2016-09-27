@@ -1,0 +1,26 @@
+{
+  "name": "firefox_icon_changer",
+  "version": "1.0.0",
+  "description": "Change the default firefox icon to any custom icon!",
+  "main": "icons.js",
+  "dependencies": {
+    "node-resourcehacker": "^1.1.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cjsimon/firefox_icon_changer.git"
+  },
+  "keywords": [
+    "Firefox"
+  ],
+  "author": "Christopher Simon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cjsimon/firefox_icon_changer/issues"
+  },
+  "homepage": "https://github.com/cjsimon/firefox_icon_changer#readme"
+}
